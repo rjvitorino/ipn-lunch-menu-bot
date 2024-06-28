@@ -2,3 +2,4 @@ python-dotenv=1.0.1
 requests==2.32.3
 pandas==2.2.2
 facebook_business==20.0.0
+slack_sdk==3.30.0
